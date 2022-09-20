@@ -1,0 +1,9 @@
+/*container Productos:*/
+.productosEstilos{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.card{
+    margin: 1rem auto;
+    
+}
